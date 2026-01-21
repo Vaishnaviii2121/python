@@ -9,7 +9,5 @@ def main():
 
     Ret = Multiplication(value)
 
-    print(Ret)
-
 if __name__=="__main__":
     main()
